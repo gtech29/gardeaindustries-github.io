@@ -7,7 +7,7 @@ This repository is an evolving collection of my academic and personal projects, 
 
 ## Project
 
-This ongoing project aims to develop my portfolio website, serving as a digital showcase of my academic and personal work. Each project featured on the website has its own dedicated page with a detailed description, source code, and any associated resources.
+This ongoing project aims to develop my portfolio website. 
 
 ## Technologies
 
