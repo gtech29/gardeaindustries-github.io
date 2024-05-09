@@ -5,11 +5,10 @@ Hello and welcome! 👋
 
 This repository is an evolving collection of my academic and personal projects, demonstrating my progression in Computer Science. Here, you'll find a range of projects showcasing my coding skills, critical thinking, and passion for technology.
 
-## Project
+## Projects
+Each project featured on the website will have its own dedicated page with a detailed description, source code, and any associated resources.
 
-This ongoing project aims to develop my portfolio website. 
-
-## Technologies
+##  Technologies
 
 The technologies utilized in this repository include a variety of tools. Specifically for this project, I've employed:
 
