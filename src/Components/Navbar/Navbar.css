@@ -1,0 +1,53 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  background-color: whitesmoke;
+  padding-bottom: 20px;
+}
+.topdiv{
+  list-style-type: none;
+  background: whitesmoke;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+ 
+}
+.topmenu{
+  margin-right: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.btn{
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  padding: 5x;
+  color: black;
+  font-size: 18px;
+}
+@media screen and (max-width: 500px) {
+  .topdiv{
+    flex-direction: column;
+    height: auto;
+  }
+  .topmenu:nth-child(1){
+    border-top: 1px solid #000;
+    margin-top: 50px;
+  }
+  .topmenu{
+    width: 100%;
+    border-top: 1px solid #000;
+    text-align: center;
+    margin-right: 0px;
+    padding: 20px 0;
+  }
+  .btn{
+    display: block;
+  }
+}

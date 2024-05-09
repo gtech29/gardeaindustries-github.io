@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+  }
+  
+  /* About Me */
+  
+  .about-me {
+    display: flex;
+    align-items: center;
+  }
+  
+  #about-me h1 {
+    font-size: 65px;
+    margin-top: 150px;
+    color: #55b2fe;
+  }
+  
+  #about-me p {
+    font-size: 25px;
+    color: rgb(128, 128, 128);
+    margin-top: -1cm;
+    padding-right: 1cm;
+  }
+  
+  .profile_image {
+    width: 550px;
+    height: fit-content;
+    vertical-align: middle;
+    margin: 5px;
+    padding-left: 20px;
+    /* padding-right: 1cm; */
+  }
+  
